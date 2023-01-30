@@ -1,0 +1,22 @@
+.alter1:hover{
+    color: aqua;
+    scale: 120%;
+}
+
+/* .alter1 {} */
+
+/* @keyframes .alter1 {
+    50% {font-size: 40px;}
+  } */
+
+  /* @media screen and (max-width: 1000px){
+    alter1 { 
+      font-size: 2em;
+      color: red;
+    }
+  } */
+/* 
+  .alter1:active {
+    font-size: 150%;
+  } */
+
